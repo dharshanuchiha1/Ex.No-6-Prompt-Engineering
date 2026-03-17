@@ -13,7 +13,7 @@ Analyze the response and the Output.
 The aim is to understand how to request help from AI tools for tasks like writing Python code, integrating with APIs, comparing outputs, and generating actionable insights.
 Output:
 
-Positive Code:
+Code for Positive Review:
 ~~~
 from nltk.sentiment import SentimentIntensityAnalyzer
 import nltk
@@ -42,7 +42,7 @@ else:
 output:
 <img width="957" height="158" alt="Screenshot 2026-03-17 112632" src="https://github.com/user-attachments/assets/4a0b8087-82c1-47e7-8ca8-64ccefe1d35b" />
 
-Negative Code:
+Code for Negative Review:
 ~~~
 from nltk.sentiment import SentimentIntensityAnalyzer
 import nltk
