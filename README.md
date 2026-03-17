@@ -70,7 +70,9 @@ else:
 
 ~~~
 output:
+
 <img width="911" height="161" alt="Screenshot 2026-03-17 112705" src="https://github.com/user-attachments/assets/aabf3b39-2f32-4529-9a83-f81a302f40a7" />
 
 Result: 
+
 The program is executed successfully and the output is verified.
